@@ -8,13 +8,14 @@ This documentation outlines the development of a Power BI reporting tool for Mar
 
 The client is a small company that is still in the process of understanding its market and evaluating its customer base. They require a BI tool to gain insights from their marketing data, focusing on the following business requirements:
 
-1. How are our six recent marketing campaigns performing?![Market minds campaign perfomance](https://github.com/user-attachments/assets/a150b41c-dd02-4389-b366-7c162a2f8b19)
+1. How are our six recent marketing campaigns performing?
+2. How are our products performing?![Market minds campaign perfomance](https://github.com/user-attachments/assets/65eb8673-bc4e-49f0-a46d-34e990f7d2b4)
 
-2. How are our products performing?
 3. Who are our customers?![BUYER composition analysis](https://github.com/user-attachments/assets/a08c9aba-6270-40da-ae31-f8c013cff20b)
 
 4. What drives campaign performance and buyer decision-making?![PURCHASE drivers analysis](https://github.com/user-attachments/assets/5712ef07-34b2-45d1-a699-f1b847b1484b)
-## Insights on Purchase Drivers, Campaign Performance, and Buyer Composition
+
+### Insights on Purchase Drivers, Campaign Performance, and Buyer Composition
 
 ### Purchase Drivers
 
@@ -117,7 +118,7 @@ To ensure the solution meets stakeholders' expectations, we will focus on the fo
 
 - **Power BI Desktop**: This tool will be utilized for creating the Power BI report and establishing a connection with the star schema database. It offers robust features for data transformation, visualization, and sharing insights.
 
-## Recommendations
+## Conclusion
 
 This Power BI storytelling project aims to empower our client with actionable insights derived from their marketing data. By implementing an interactive reporting tool with a clear architectural design, we can help the client better understand their campaigns, products, and customer base, ultimately driving informed decision-making and strategic growth.
 By leveraging these insights, MarketMindz can effectively guide their client toward a more data-driven marketing strategy.
