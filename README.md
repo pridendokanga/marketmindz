@@ -64,17 +64,13 @@ Understanding the composition of our buyer base is essential for future marketin
 
 By focusing on these insights and strategies, MarketMindz can optimize future marketing efforts and better meet the needs of their evolving customer base.
 
-## Proposed Solution
-
-To address these requirements, we propose developing a Power BI report that connects to a star schema database. This solution will enable the client to visualize and explore their data interactively.
-
 ### Key Features
 
 1. **Data Visualizations**: 
-   - Utilize a variety of Power BI visualizations such as charts, cards, and key influencers visuals to effectively display data insights.
+   -Variety of Power BI visualizations such as charts, cards, and key influencers visuals to effectively display data insights.
 
 2. **Interactive Filters**:
-   - Implement visual filters including slicers and dropdowns to allow users to explore data by Campaign, Product, and Customer ID.
+   - Visual filters including slicers and dropdowns to allow users to explore data by Campaign, Product, and Customer ID.
 
 ### Architectural Design - Star Schema![Star Schema](https://github.com/user-attachments/assets/3bf18b42-d65e-459f-850b-16194c30501f)
 
