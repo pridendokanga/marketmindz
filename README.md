@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This documentation outlines the development of a Power BI reporting tool for MarketMindz, a market research firm collaborating with a small retail vendor in the food and beverage sector. The primary goal is to create a Business Intelligence (BI) solution that provides insights into marketing campaign performance, product performance, customer demographics, and the factors influencing campaign success.
+MarketMindz, a market research firm collaborating with a small retail vendor in the food and beverage sector. The primary goal is to create a Business Intelligence (BI) solution that provides insights into marketing campaign performance, product performance, customer demographics, and the factors influencing campaign success.
 
 ## Problem Statement
 
